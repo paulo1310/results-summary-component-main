@@ -21,7 +21,6 @@ O desafio é construir um componente de resumo de resultados e aproximá-lo o m�
 
 - Solution URL: (https://github.com/paulo1310/results-summary-component-main)
 - Live Site URL: (https://paulo1310.github.io/results-summary-component-main/)
-
 ## Author
 
 - Frontend Mentor - [@Paulo1310](https://www.frontendmentor.io/profile/paulo1310)
