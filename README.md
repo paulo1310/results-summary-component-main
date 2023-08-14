@@ -19,7 +19,7 @@ O desafio é construir um componente de resumo de resultados e aproximá-lo o m�
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://github.com/paulo1310/results-summary-component-main))
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## Author
