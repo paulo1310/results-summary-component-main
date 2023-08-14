@@ -1,0 +1,40 @@
+@media(max-width: 700px) {
+
+    body {
+        min-height: 0;
+    }
+
+    main {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .coluna1 {
+        border-radius: 0 0 30px 30px;
+        height: 600px;   
+    }
+
+    .coluna1 h1 {
+        padding-top: 20px;
+    }
+
+    .coluna1 h3 {
+        padding: 20px;
+    }
+
+    main .coluna1 p {
+        padding: 0 50px 50px 50px;
+    }
+
+    .coluna2 {
+        border-radius: 0;
+    }
+
+    .coluna2 h3 {
+        padding-bottom: 10px;
+    }
+
+    .attribution {
+        display: none;
+    }
+}
